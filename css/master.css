@@ -1,0 +1,54 @@
+header{
+    width: 100%;
+    border:1px solid black;
+    clear:both;
+}
+
+header img{
+    height:100px;
+}
+
+img.logo{
+    float:left;
+    margin-left: 40px;
+}
+
+nav{
+    display:inline-block;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+li,button.one,button.two{
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+
+
+nav li{
+    display:inline;
+}
+
+nav li a{
+    color: black;
+    text-decoration: none;
+}
+
+
+main{
+    Border:1px solid black;
+    height: 710px;
+    margin-top: 80px;
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 65%;
+    font-size: 70px;
+}
+
+button.help,button.volunteer{
+    margin-left: 40px;
+}
